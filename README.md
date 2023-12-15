@@ -1,4 +1,4 @@
-##Passionate and detail-oriented
+## Passionate and detail-oriented
 
 I have eight years of hands-on experience in transforming houses and apartments into beautiful, functional spaces. 
 I am eager to transition into a career as a web developer. I am a recent graduate of the Lighthouse Labs - Web Development bootcamp. I posses a strong foundation in project management, problem-solving, and team collaboration and I'm looking forward to becoming part of team of skilled developers!
