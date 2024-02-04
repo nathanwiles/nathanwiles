@@ -8,18 +8,18 @@
 👥 Team player.  
 🤩 looking forward to the journey!  
 
-⚛️ I Primarily use Javascript, Node, React, Express, and Postgress to build Apps that solve real world problems!  
+⚛️ I Primarily use Javascript, Node, React, Express, and PostgreSQL or Mongo to build apps that solve real world problems!  
 🛤 I'm also familiar with Ruby on Rails.
 
 ## I have many interests including but not limited to:
 
 🌐 Web2 & Web3 Technologies  
-⎏ Microprocessors/Embeded Systems  
+⎏ Microprocessors/Embedded Systems  
 🩸 Bleeding Edge Technologies  
 🎹 Music Creation  
 🏚 Home Renovation  
 🪚 Woodworking  
-🎭 Performaning Arts  
+🎭 Performing Arts  
 ✨ Spirituality  
 🧘🏻‍♂️ Meditation  
 🌱 Personal Development  
