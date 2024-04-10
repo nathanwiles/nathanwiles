@@ -1,7 +1,7 @@
 ## Passionate and Detail-oriented
 
 👨🏼‍🎓 Graduate of Lighthouse Labs Web Development bootcamp.  
-👨🏽‍💻 Eager to transition into a career as a web developer.  
+👨🏽‍💻 Currently employed as a full-stack developer.  
 🏘 8 years of hands-on experience transforming houses and apartments into beautiful, functional spaces.  
 📝 Strong foundation in project management.  
 🤔 Professional problem-solver.  
