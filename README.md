@@ -6,7 +6,7 @@
 📝 Strong foundation in project management.  
 🤔 Professional problem-solver.  
 👥 Team player.  
-🤩 looking forward to the journey!  
+🤩 Eternally optimistic.
 
 ⚛️ I Primarily use Javascript, Node, React, Express, and PostgreSQL or Mongo to build apps that solve real world problems!  
 🛤 I'm also familiar with Ruby on Rails.
